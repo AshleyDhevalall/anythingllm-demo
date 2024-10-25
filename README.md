@@ -48,14 +48,13 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 what passwords are used?
 ```
 > [!TIP]
-> [Chat](https://docs.gpt4all.io/gpt4all_desktop/chats.html)
+> [Chat](https://docs.anythingllm.com/chat-ui)
 
 Sample chat response  
 ![chat](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/chat.png)
 
 > [!IMPORTANT]  
 > Always verify the accuracy of the results  
-> GTP4All has an option that allows you to view the source of the files in the Chat response
 
 ## Troubleshooting
 #### Embedding taking too long
@@ -78,10 +77,9 @@ This usually happens when using models that required more RAM than is available 
 
 ## Further reading  
 [Quickstart](https://docs.gpt4all.io/gpt4all_desktop/quickstart.html#quickstart)  
-[Wiki](https://github.com/nomic-ai/gpt4all/wiki)  
-[FAQ](https://docs.gpt4all.io/gpt4all_help/faq.html)  
-[Settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html)  
-[What Is GPT4All and How Does It Work?](https://www.makeuseof.com/what-is-gpt4all-and-how-does-it-work/)  
+[System Requirements]()
+[FAQ](https://docs.anythingllm.com/llm-not-using-my-docs)  
+[Configuration](https://docs.anythingllm.com/configuration)  
 
 ## Authors
 
@@ -89,7 +87,5 @@ This usually happens when using models that required more RAM than is available 
 
 ## Acknowledgements
 
-[GTP4All](<https://www.nomic.ai/gpt4all>)  
-[Joshua Stenhouse](<https://virtuallysober.com/2017/07/10/working-with-sql-databases-using-powershell/>)  
-[Jayric Maning](<https://www.makeuseof.com/what-is-gpt4all-and-how-does-it-work/>)  
+[GTP4All](<https://www.nomic.ai/gpt4all>)
 
