@@ -39,6 +39,9 @@ Who are the characters in romeo-and-juliet_PDF_FolgerShakespeare.pdf?
 Sample prompt request  
 ![chat](https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/prompt.png)
 
+Sample prompt response  
+![chat](https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/chat_response.png)
+
 > [!IMPORTANT]  
 > Always verify the accuracy of the results  
 
