@@ -28,6 +28,12 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 > [!WARNING]  
 > PDF, TXT, DOCX, Word docs and more. Unfortunately the tool does not support .ps1 file :(
 
+<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/upload.png" style='height: 50%; width: 50%;'>
+
+Ensure that you move the documents to the Workspaces
+
+<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/embedding.png" style='height: 50%; width: 50%;'>
+
 Please patient while the files complete embedding...
 
 <img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/download.png" style='height: 50%; width: 50%;'>
