@@ -52,9 +52,9 @@ Could not respond to message. fetch failed
 
 ## Further reading 
 [Setup](https://docs.anythingllm.com/setup/llm-configuration/local/built-in)
-[System Requirements](https://docs.anythingllm.com/installation-desktop/system-requirements)
-[FAQ](https://docs.anythingllm.com/llm-not-using-my-docs)  
 [Configuration](https://docs.anythingllm.com/configuration)  
+[System Requirements](https://docs.anythingllm.com/installation-desktop/system-requirements)  
+[FAQ](https://docs.anythingllm.com/llm-not-using-my-docs)  
 
 ## Authors
 
@@ -62,6 +62,5 @@ Could not respond to message. fetch failed
 
 ## Acknowledgements
 
-[GTP4All](<https://www.nomic.ai/gpt4all>)
-[anakin.ai](<https://anakin.ai/blog/anything-llm/>)
-
+[GTP4All](<https://www.nomic.ai/gpt4all>)  
+[anakin.ai](<https://anakin.ai/blog/anything-llm/>)  
