@@ -42,27 +42,9 @@ Sample prompt request
 > [!IMPORTANT]  
 > Always verify the accuracy of the results  
 
-## Troubleshooting
-#### Embedding taking too long
-Uploading large files will result in an increased duration for the embedding to complete. Alternatively try a smaller subset of docs
-
-#### Load Docs collection shows 0 files and 0 words
-
-<img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/troubleshooting.png" style='height: 70%; width: 70%;'>
-
-Ensure that you have included the correct file extension
-![allowed_file_extensions](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/allowed_file_extensions.png)
-
-
-
-#### Chat window closes after selecting model -> try using a smaller model
-This usually happens when using models that required more RAM than is available on your system. Try using a smaller model
-
-<img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/ram_required.png" style='height: 70%; width: 70%;'>
-
-## Further reading  
-[Quickstart](https://docs.gpt4all.io/gpt4all_desktop/quickstart.html#quickstart)  
-[System Requirements]()
+## Further reading 
+[Setup](https://docs.anythingllm.com/setup/llm-configuration/local/built-in)
+[System Requirements](https://docs.anythingllm.com/installation-desktop/system-requirements)
 [FAQ](https://docs.anythingllm.com/llm-not-using-my-docs)  
 [Configuration](https://docs.anythingllm.com/configuration)  
 
