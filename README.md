@@ -17,7 +17,7 @@ It is an all-in-one zero-setup private application for local LLMs, RAG and AI Ag
 3. Create new workspace. Enter name for collection and click `Save`
 > [!TIP]
 > [Workspaces](https://docs.anythingllm.com/chat-ui)
-<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/new_workspace.png" style='height: 70%; width: 70%;'>
+<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/new_workspace.png" style='height: 40%; width: 40%;'>
 
 4. Search for `Llama 3.2 1B Instruct` and then click `Download`. Please patient while to model downloads...
 
