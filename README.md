@@ -32,31 +32,12 @@ Please patient while the files complete embedding...
 
 <img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/download.png" style='height: 50%; width: 50%;'>
 
-6. Configure settings
-> [!TIP]
-> [Settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html)
-
-7.1 Click `LocalDocs` on left menu. Provide a `Collection name` eg. `Sample Test`
-> [!TIP]
-> [LocalDocs](https://docs.gpt4all.io/gpt4all_desktop/localdocs.html)  
-
-<img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_document_collection.png" style='height: 70%; width: 70%;'>
-
-7.2 Click `Browse`. Navigate to cloned repository folder above (Step 5) and then select the folder. Please patient while the embeddings complete...  
-
-<img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/embeddings.png" style='height: 70%; width: 70%;'>
-
-8. Click `New chat` on left menu. Ensure you select the files from the `Local Docs` panel on the right side  
-  
-    Enter your prompt and click `Send`
+6. Enter your prompt and click `Send`
 ```
-what passwords are used?
+Who are the characters in romeo-and-juliet_PDF_FolgerShakespeare.pdf?
 ```
-> [!TIP]
-> [Chat](https://docs.anythingllm.com/chat-ui)
-
 Sample chat response  
-![chat](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/chat.png)
+![chat](https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/prompt.png)
 
 > [!IMPORTANT]  
 > Always verify the accuracy of the results  
