@@ -21,7 +21,7 @@ It is an all-in-one zero-setup private application for local LLMs, RAG and AI Ag
 
 4. Clone repository
 ```
-git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
+git clone https://github.com/AshleyDhevalall/anythingllm-demo.git
 ```
 
 5. Upload files. Navigate to the folder you cloned in Step 4 
@@ -43,7 +43,7 @@ Please patient while the files complete embedding...
 Who are the characters in romeo-and-juliet_PDF_FolgerShakespeare.pdf?
 ```
 Sample prompt request  
-![chat](https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/prompt.png)
+<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/prompt.png" style='height: 60%; width: 60%;'>
 
 Sample prompt response  
 ![chat](https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/chat_response.png)
