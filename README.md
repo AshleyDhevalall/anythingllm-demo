@@ -38,7 +38,7 @@ Please patient while the files complete embedding...
 
 <img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/download.png" style='height: 50%; width: 50%;'>
 
-6. Enter your prompt and click `Send`
+6. Close the `My Documents window`. Enter your prompt and click `Send prompt message to workspace` icon
 ```
 Who are the characters in romeo-and-juliet_PDF_FolgerShakespeare.pdf?
 ```
