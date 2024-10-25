@@ -28,7 +28,7 @@ git clone https://github.com/AshleyDhevalall/anythingllm-demo.git
 > [!WARNING]  
 > PDF, TXT, DOCX, Word docs and more. Unfortunately the tool does not support .ps1 file :(
 
-<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/upload.png" style='height: 50%; width: 50%;'>
+<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/upload.png" style='height: 60%; width: 60%;'>
 
 Ensure that you move the documents to the Workspaces. Click `Save and Embed`
 
