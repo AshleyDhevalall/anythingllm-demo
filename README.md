@@ -12,7 +12,7 @@ It is an all-in-one zero-setup private application for local LLMs, RAG and AI Ag
 > [QuickStart](https://docs.anythingllm.com/installation-desktop/overview)  
 
 2. Open AnythingLLM. Please patient while the application opens...  
-![anythingllm](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/open_gtp4all.png)
+![anythingllm](https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/anythingllm.png)
 
 3. Adding new model (Click `Models` on left menu) and then click `+ Add Model` button  
 > [!TIP]
