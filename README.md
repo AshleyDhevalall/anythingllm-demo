@@ -30,7 +30,7 @@ git clone https://github.com/AshleyDhevalall/anythingllm-demo.git
 
 Drag and drop your files into the box shown below
 
-<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/drag-and-drop.png" style='height: 60%; width: 60%;'>
+<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/drag-and-drop.png" style='height: 40%; width: 40%;'>
 
 Once complete, select the file and click `Move to Workspace`
 
