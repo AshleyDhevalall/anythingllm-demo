@@ -30,7 +30,7 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 
 <img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/upload.png" style='height: 50%; width: 50%;'>
 
-Ensure that you move the documents to the Workspaces
+Ensure that you move the documents to the Workspaces. Click `Save and Embed`
 
 <img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/embedding.png" style='height: 50%; width: 50%;'>
 
