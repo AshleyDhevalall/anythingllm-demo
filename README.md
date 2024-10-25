@@ -28,6 +28,8 @@ git clone https://github.com/AshleyDhevalall/anythingllm-demo.git
 > [!WARNING]  
 > PDF, TXT, DOCX, Word docs and more. Unfortunately AnythingLLM does not support .ps1 file :(
 
+<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/upload.png" style='height: 40%; width: 40%;'>
+
 Drag and drop your files into the box shown below
 
 <img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/drag-and-drop.png" style='height: 40%; width: 40%;'>
