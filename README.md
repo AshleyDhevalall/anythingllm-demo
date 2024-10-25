@@ -62,5 +62,5 @@ Could not respond to message. fetch failed
 
 ## Acknowledgements
 
-[GTP4All](<https://www.nomic.ai/gpt4all>)  
+[AnythingLLM](<https://anythingllm.com/>)  
 [anakin.ai](<https://anakin.ai/blog/anything-llm/>)  
