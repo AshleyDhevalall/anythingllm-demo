@@ -20,7 +20,7 @@ It is an all-in-one zero-setup private application for local LLMs, RAG and AI Ag
 <img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/new_workspace.png" style='height: 30%; width: 30%;'>
 
 4. Upload files
-> [!TIP]
+> [!WARNING]  
 > PDF, TXT, DOCX, Word docs and more. Unfortunately the tool does not support .ps1 file :(
 
 <img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/upload.png" style='height: 50%; width: 50%;'>
