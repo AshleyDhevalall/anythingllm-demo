@@ -36,7 +36,7 @@ Please patient while the files complete embedding...
 ```
 Who are the characters in romeo-and-juliet_PDF_FolgerShakespeare.pdf?
 ```
-Sample chat response  
+Sample prompt request  
 ![chat](https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/prompt.png)
 
 > [!IMPORTANT]  
