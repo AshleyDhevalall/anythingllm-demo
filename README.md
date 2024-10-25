@@ -1,5 +1,5 @@
 # anythingllm-demo
-The objective of this article is to run large language models locally to analyze local docs. In this use case we analyze Shakespeare's Romeo And Juliet and Twelfth Night plays in pdf form.
+The objective of this article is to run large language models locally to analyze local docs. In this use case we analyze Shakespeare's Romeo And Juliet.
 
 ## What is AnythingLLM?
 
