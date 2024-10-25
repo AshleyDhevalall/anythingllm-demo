@@ -19,16 +19,18 @@ It is an all-in-one zero-setup private application for local LLMs, RAG and AI Ag
 > [Workspaces](https://docs.anythingllm.com/chat-ui)
 <img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/new_workspace.png" style='height: 30%; width: 30%;'>
 
-4. Upload files
-> [!WARNING]  
-> PDF, TXT, DOCX, Word docs and more. Unfortunately the tool does not support .ps1 file :(
-
-<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/upload.png" style='height: 50%; width: 50%;'>
-
-5. Clone repository
+4. Clone repository
 ```
 git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 ```
+
+5. Upload files. Navigate to the folder you cloned in Step 4 
+> [!WARNING]  
+> PDF, TXT, DOCX, Word docs and more. Unfortunately the tool does not support .ps1 file :(
+
+Please patient while the files complete embedding...
+
+<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/download.png" style='height: 50%; width: 50%;'>
 
 6. Configure settings
 > [!TIP]
