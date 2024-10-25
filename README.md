@@ -19,9 +19,8 @@ It is an all-in-one zero-setup private application for local LLMs, RAG and AI Ag
 > [Workspaces](https://docs.anythingllm.com/chat-ui)
 <img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/new_workspace.png" style='height: 30%; width: 30%;'>
 
-4. Search for `Llama 3.2 1B Instruct` and then click `Download`. Please patient while to model downloads...
-
-![explore_models](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/explore_models.png)
+4. Upload files
+<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/upload.png" style='height: 50%; width: 50%;'>
 
 5. Clone repository
 ```
