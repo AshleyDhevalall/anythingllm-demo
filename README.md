@@ -48,7 +48,7 @@ Close the `My Documents window` once the embedding is complete
 
 6. Enter your prompt and click `Send prompt message to workspace` icon
 ```
-Who are the characters in romeo-and-juliet.pdf?
+Who are the characters in Romeo and Juliet?
 ```
 
 Sample prompt response  
