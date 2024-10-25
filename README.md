@@ -34,9 +34,9 @@ Drag and drop your files into the box shown below
 
 Once complete, select the file and click `Move to Workspace`
 
-<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/upload.png" style='height: 60%; width: 60%;'>
+<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/move-to-workspace.png" style='height: 60%; width: 60%;'>
 
-Ensure that you move the documents to the Workspaces. Click `Save and Embed`
+Click `Save and Embed`
 
 <img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/embedding.png" style='height: 65%; width: 65%;'>
 
