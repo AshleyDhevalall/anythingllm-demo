@@ -14,11 +14,9 @@ It is an all-in-one zero-setup private application for local LLMs, RAG and AI Ag
 2. Open AnythingLLM. Please patient while the application opens...  
 ![anythingllm](https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/anythingllm.png)
 
-3. Create new workspace 
+3. Create new workspace. Enter name for collection and click `Save`
 > [!TIP]
-> [Workspaces](https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/workspace.png)
-
-![add_model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model_1.png)
+> [Workspaces](https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/new_workspace.png)
 
 4. Search for `Llama 3.2 1B Instruct` and then click `Download`. Please patient while to model downloads...
 
