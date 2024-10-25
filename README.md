@@ -24,9 +24,9 @@ It is an all-in-one zero-setup private application for local LLMs, RAG and AI Ag
 git clone https://github.com/AshleyDhevalall/anythingllm-demo.git
 ```
 
-5. Upload files. Navigate to the folder you cloned in Step 4 
+5. Upload files. Navigate to the folder you cloned in Step 4 and upload the 
 > [!WARNING]  
-> PDF, TXT, DOCX, Word docs and more. Unfortunately the tool does not support .ps1 file :(
+> PDF, TXT, DOCX, Word docs and more. Unfortunately AnythingLLM does not support .ps1 file :(
 
 <img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/upload.png" style='height: 60%; width: 60%;'>
 
