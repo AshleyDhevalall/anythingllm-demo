@@ -1,5 +1,5 @@
 # AnythingLLM Demo
-The objective of this article is to run large language models locally to analyze local docs. In this use case we analyze Shakespeare's Romeo And Juliet.
+The objective of this article is to run large language models locally to analyze local docs. In this use case we analyze the Romeo And Juliet play by William Shakespeare.
 
 ## What is AnythingLLM?
 
