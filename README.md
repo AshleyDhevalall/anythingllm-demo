@@ -36,9 +36,11 @@ Ensure that you move the documents to the Workspaces. Click `Save and Embed`
 
 Please patient while the files complete embedding...
 
+Close the `My Documents window` once the embedding is complete
+
 <img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/download.png" style='height: 50%; width: 50%;'>
 
-6. Close the `My Documents window`. Enter your prompt and click `Send prompt message to workspace` icon
+6. Enter your prompt and click `Send prompt message to workspace` icon
 ```
 Who are the characters in romeo-and-juliet_PDF_FolgerShakespeare.pdf?
 ```
