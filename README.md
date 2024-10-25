@@ -48,7 +48,7 @@ Could not respond to message. fetch failed
 ![troubleshooting](https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/trouble-shooting.png)
 
 > [!TIP]
-> [fetch failed](https://docs.anythingllm.com/fetch-failed-on-upload)
+> [Fetch failed error on embed](https://docs.anythingllm.com/fetch-failed-on-upload)
 
 ## Further reading 
 [Setup](https://docs.anythingllm.com/setup/llm-configuration/local/built-in)
