@@ -20,6 +20,9 @@ It is an all-in-one zero-setup private application for local LLMs, RAG and AI Ag
 <img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/new_workspace.png" style='height: 30%; width: 30%;'>
 
 4. Upload files
+> [!TIP]
+> PDF, TXT, DOCX, Word docs and more. Unfortunately the tool does not support .ps1 file :(
+
 <img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/upload.png" style='height: 50%; width: 50%;'>
 
 5. Clone repository
@@ -67,8 +70,7 @@ Uploading large files will result in an increased duration for the embedding to 
 Ensure that you have included the correct file extension
 ![allowed_file_extensions](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/allowed_file_extensions.png)
 
-> [!TIP]
-> [Allowed File Extensions](https://github.com/nomic-ai/gpt4all/wiki/LocalDocs)
+
 
 #### Chat window closes after selecting model -> try using a smaller model
 This usually happens when using models that required more RAM than is available on your system. Try using a smaller model
@@ -88,4 +90,5 @@ This usually happens when using models that required more RAM than is available 
 ## Acknowledgements
 
 [GTP4All](<https://www.nomic.ai/gpt4all>)
+[anakin.ai](<https://anakin.ai/blog/anything-llm/>)
 
