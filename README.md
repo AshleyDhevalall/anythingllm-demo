@@ -50,8 +50,6 @@ Close the `My Documents window` once the embedding is complete
 ```
 Who are the characters in romeo-and-juliet.pdf?
 ```
-Sample prompt request  
-<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/prompt.png" style='height: 60%; width: 60%;'>
 
 Sample prompt response  
 ![chat](https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/chat_response.png)
