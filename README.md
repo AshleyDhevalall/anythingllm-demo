@@ -51,7 +51,7 @@ Could not respond to message. fetch failed
 > [Fetch failed error on embed](https://docs.anythingllm.com/fetch-failed-on-upload)
 
 ## Further reading 
-[Setup](https://docs.anythingllm.com/setup/llm-configuration/local/built-in)
+[Setup](https://docs.anythingllm.com/setup/llm-configuration/local/built-in)  
 [Configuration](https://docs.anythingllm.com/configuration)  
 [System Requirements](https://docs.anythingllm.com/installation-desktop/system-requirements)  
 [FAQ](https://docs.anythingllm.com/llm-not-using-my-docs)  
