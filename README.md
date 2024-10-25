@@ -42,7 +42,7 @@ Close the `My Documents window` once the embedding is complete
 
 6. Enter your prompt and click `Send prompt message to workspace` icon
 ```
-Who are the characters in romeo-and-juliet_PDF_FolgerShakespeare.pdf?
+Who are the characters in romeo-and-juliet.pdf?
 ```
 Sample prompt request  
 <img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/prompt.png" style='height: 60%; width: 60%;'>
