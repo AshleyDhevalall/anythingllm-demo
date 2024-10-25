@@ -1,4 +1,4 @@
-# anythingllm-demo
+# AnythingLLM Demo
 The objective of this article is to run large language models locally to analyze local docs. In this use case we analyze Shakespeare's Romeo And Juliet.
 
 ## What is AnythingLLM?
