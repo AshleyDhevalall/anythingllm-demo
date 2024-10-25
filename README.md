@@ -24,9 +24,15 @@ It is an all-in-one zero-setup private application for local LLMs, RAG and AI Ag
 git clone https://github.com/AshleyDhevalall/anythingllm-demo.git
 ```
 
-5. Upload files. Navigate to the `shakepseare` folder you cloned in Step 4 and upload the `romeo-and-juliet.pdf`
+5. Upload files. Navigate to the `shakespeare` folder you cloned in Step 4 and upload the `romeo-and-juliet.pdf`
 > [!WARNING]  
 > PDF, TXT, DOCX, Word docs and more. Unfortunately AnythingLLM does not support .ps1 file :(
+
+Drag and drop your files into the box shown below
+
+<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/drag-and-drop.png" style='height: 60%; width: 60%;'>
+
+Once complete, select the file and click `Move to Workspace`
 
 <img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/upload.png" style='height: 60%; width: 60%;'>
 
