@@ -32,7 +32,7 @@ git clone https://github.com/AshleyDhevalall/anythingllm-demo.git
 
 Ensure that you move the documents to the Workspaces. Click `Save and Embed`
 
-<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/embedding.png" style='height: 50%; width: 50%;'>
+<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/embedding.png" style='height: 65%; width: 65%;'>
 
 Please patient while the files complete embedding...
 
